@@ -10,7 +10,6 @@ export class AddMapReduce extends MapReduceAlgotitm {
     constructor(data: number[]) {
         super(data);
     }
-
     /**
      * Hook method
      */
