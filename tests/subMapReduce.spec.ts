@@ -9,7 +9,7 @@ describe('subMapReduce', () => {
 
   it('should reduce a vector', () => {
     const subMapReduce = new SubMapReduce([1, 2, 3, 4, 5]);
-    expect(subMapReduce.execute((item) => item * 4)).to.be.equal(-10);
+    expect(subMapReduce.execute((item) => item * 2)).to.be.equal(-30);
   });
 
 });
