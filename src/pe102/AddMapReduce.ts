@@ -1,5 +1,5 @@
 
-import { MapReduceAlgotitm } from "./MapReduceAlgorithm";
+import { MapReduceAlgotitm } from "./MapReduceAlgorithm.js";
 
 /**
  * This class is used to add all the elements of an array

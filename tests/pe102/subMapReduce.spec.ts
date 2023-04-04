@@ -2,7 +2,7 @@
 
 import 'mocha';
 import {expect} from 'chai';
-import {SubMapReduce} from '../../src/pe102/SubMapReduce';
+import {SubMapReduce} from '../../src/pe102/SubMapReduce.js';
 
 
 describe('subMapReduce', () => {

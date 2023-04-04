@@ -1,5 +1,5 @@
 
-import { MapReduceAlgotitm } from "./MapReduceAlgorithm";
+import { MapReduceAlgotitm } from "./MapReduceAlgorithm.js";
 
 /**
  * This class is used to multiply all the elements of an array

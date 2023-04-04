@@ -1,6 +1,6 @@
 
 
-import { MapReduceAlgotitm } from "./MapReduceAlgorithm";
+import { MapReduceAlgotitm } from "./MapReduceAlgorithm.js";
 
 export class SubMapReduce extends MapReduceAlgotitm {
 

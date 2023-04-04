@@ -1,6 +1,6 @@
 import 'mocha';
 import {expect} from 'chai';
-import {AddMapReduce} from '../../src/pe102/AddMapReduce';
+import {AddMapReduce} from '../../src/pe102/AddMapReduce.js';
 
 
 describe('addMapReduce', () => {

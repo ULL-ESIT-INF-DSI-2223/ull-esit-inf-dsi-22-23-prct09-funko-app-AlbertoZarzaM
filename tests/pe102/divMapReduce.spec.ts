@@ -2,7 +2,7 @@
 
 import 'mocha';
 import {expect} from 'chai';
-import {DivMapReduce} from '../../src/pe102/DivMapReduce';
+import {DivMapReduce} from '../../src/pe102/DivMapReduce.js';
 
 
 describe('divMapReduce', () => {
