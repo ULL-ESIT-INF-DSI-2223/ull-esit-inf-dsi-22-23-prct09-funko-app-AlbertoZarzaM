@@ -1,12 +1,7 @@
 {
   "entryPoints": [
-    "./src/user/*.ts",
-    "./src/route/*.ts",
-    "./src/retos/*.ts",
-    "./src/gestor/*.ts",
-    "./src/funcionesInquirer/*.ts",
-    "./src/group/*.ts"
-
+    "./src/pe102/*.ts",   
+    "./src/*.ts" 
 
     
     
